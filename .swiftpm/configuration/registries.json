@@ -1,0 +1,8 @@
+{
+  "registries" : {
+    "[default]" : {
+      "url" : "http://soleng.jfrog.io/artifactory/api/swift/alpha-swift-virtual"
+    }
+  },
+  "version" : 1
+}
